@@ -1,8 +1,8 @@
-51de0c27b2f9e338911018595d39ee19 *DESCRIPTION
+5281e499d573256a5550585fc5745008 *DESCRIPTION
 18087b81660f8494dc7e385e19117488 *LICENSE
 88c89a55b5f00e49fe0bb00c4e7ab58a *LICENSE.note
 7ca3738beea65a02f86925dfa4e4b632 *NAMESPACE
-5fd2b37a39a75897b4f96b668aef4de4 *NEWS.md
+64cf47eebe61dc9cab60d76975249c45 *NEWS.md
 f48b8e90699e74bed6bb0fdd78c7224c *R/extendr-wrappers.R
 08aa331e30b3b77ffaf007a286edaa91 *R/fixed-bond.R
 39d5c7a7de00213323a486be59f18841 *R/rtn.R
@@ -26,13 +26,13 @@ f45acec314699077d914a3df68a77015 *src/rust/src/check_len.rs
 d3390dccf0a63efafe328f500dcc08e7 *src/rust/src/date_handle.rs
 991cd1b75718ab9b7b678514eb3ededc *src/rust/src/find_root.rs
 7989ed87330c8b60077bf4f51d9f8384 *src/rust/src/lib.rs
-aa710b2dcee81bf40b2eb9854d9f6eed *src/rust/src/rdate.rs
+3ea7e2387cf025b11aac9f1fd23c0f9a *src/rust/src/rdate.rs
 a2a2bcfc97ab2eda49aa03056a17b7c7 *src/rust/src/rtn.rs
 a27a8fab7895500c6397c662688be2ab *src/rust/src/xirr.rs
 2f0a11715b39d6ecadefa5fc4c6e5c61 *src/rust/vendor.sh
 17789e892db3220fd639d9d059bdbd2b *src/rust/vendor.tar.xz
 8a299117494b910041b5b61bb13e5131 *tests/testthat.R
-eebc9121a4f59bdf1a0d012cd372b14b *tests/testthat/test-fixed-bond.R
+56dea96673d4f5320ec05806697fbe13 *tests/testthat/test-fixed-bond.R
 e10b5ef02be9722ab895eb8e0d57bd80 *tests/testthat/test-rtn.R
 47fdd707af619a53626baed9d7e51de0 *tests/testthat/test-utils.R
 291e37e9dea996fa5807701ba87a29fb *tools/configure.R
