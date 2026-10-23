@@ -1,8 +1,8 @@
-426c884fca665e766a88837424b6ff11 *DESCRIPTION
+78eb97a3a0cb81f1bceecf842d86204b *DESCRIPTION
 18087b81660f8494dc7e385e19117488 *LICENSE
 23ba21dc1d7b04cfa1ae0745327999bd *LICENSE.note
 7ca3738beea65a02f86925dfa4e4b632 *NAMESPACE
-418f1818a83c7a8a1b8e10a72d7301f5 *NEWS.md
+591608eba2d23310d2db41f672d5787c *NEWS.md
 f48b8e90699e74bed6bb0fdd78c7224c *R/extendr-wrappers.R
 626592951c80aa5b8610fd922a98e674 *R/fixed-bond.R
 350b4c92b4ec73b4a2db764d39a13844 *R/rtn.R
@@ -16,11 +16,11 @@ a32ad094b30edcd778a566426fed5247 *inst/AUTHORS
 89e463e96afbe318d5e9df84615417dc *man/fixed_bond.Rd
 a8c953fa889485f377a234b73736dafc *man/make_rtn.Rd
 0e222d5e36b525a8560804773c7c76f4 *src/Makevars.in
-a77f7dc66eb6f2958ccfe55b857ed60b *src/Makevars.win.in
+590a945e1eb99f6887f4a1ce84594607 *src/Makevars.win.in
 06b4c351d7c504932041afa98f85f106 *src/entrypoint.c
 784c73d4e1ea2180934824e8342c8232 *src/fcl-win.def
-692f4964e5c6f96361356f32900814f3 *src/rust/Cargo.lock
-7ed44b08567f15ad2bb3ef10d587ccfc *src/rust/Cargo.toml
+3182f0d10b5eaa577cce7b1878d564d4 *src/rust/Cargo.lock
+5bb50edaa22b2d00378fb61948732542 *src/rust/Cargo.toml
 4e81c9334ab80db23db922dfe53ba19a *src/rust/src/assert.rs
 09c4d5454644d7cae5f223c9a20e0cdb *src/rust/src/bond.rs
 400de53060631a3426d94f9827049c1c *src/rust/src/check_len.rs
@@ -36,6 +36,6 @@ d4c7febd30951f7fbd584476dbb2dd70 *src/rust/vendor-config.toml
 56dea96673d4f5320ec05806697fbe13 *tests/testthat/test-fixed-bond.R
 e10b5ef02be9722ab895eb8e0d57bd80 *tests/testthat/test-rtn.R
 47fdd707af619a53626baed9d7e51de0 *tests/testthat/test-utils.R
-d893d6b3b6cabf0cd4ef794125b872d7 *tools/config.R
-cc5947647efcaf6afb9124a51a639693 *tools/configure.R
+79ff4879b64d853079d948b0e610962f *tools/config.R
+af351321027dd86b65bc44afda59985d *tools/configure.R
 db2d2c7de992557583aa74a46cb21f26 *tools/print_r_version.R

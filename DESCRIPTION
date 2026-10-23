@@ -1,6 +1,6 @@
 Package: fcl
 Title: A Financial Calculator
-Version: 0.1.5
+Version: 0.1.6
 Authors@R: c(
     person("Xianying", "Tan", , "shrektan@126.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-6072-3521")),
@@ -27,7 +27,7 @@ SystemRequirements: Cargo (Rust's package manager), rustc (>= 1.71.0)
 Biarch: true
 License: MIT + file LICENSE
 Encoding: UTF-8
-Config/roxygen2/version: 8.1.0
+Config/roxygen2/version: 8.1.1
 Suggests: testthat (>= 3.0.0)
 Imports: xts, ymd
 Config/testthat/edition: 3
@@ -35,11 +35,11 @@ Config/rextendr/version: 0.3.1.9001
 Config/fcl/MSRV: 1.71.0
 Depends: R (>= 4.2)
 NeedsCompilation: yes
-Packaged: 2026-08-22 18:02:48 UTC; shrektan
+Packaged: 2026-10-23 15:02:22 UTC; shrektan
 Author: Xianying Tan [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-6072-3521>),
   Raymon Mina [ctb] (find_root.rs, xirr.rs),
   The authors of the dependency Rust crates [ctb] (see inst/AUTHORS file
     for details)
 Repository: CRAN
-Date/Publication: 2026-08-22 19:30:02 UTC
+Date/Publication: 2026-10-23 16:30:08 UTC

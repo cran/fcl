@@ -1,3 +1,10 @@
+# fcl 0.1.6
+
+* Fix installation on Windows ARM64 by selecting the LLVM Rust target
+  (thanks to Jeroen Ooms, #8).
+* Keep Rust target validation and compilation consistent on Windows,
+  including x64 clang builds.
+
 # fcl 0.1.5
 
 * Restore CRAN R C API compliance by upgrading the `extendr` Rust crates.
